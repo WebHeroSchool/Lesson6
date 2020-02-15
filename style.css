@@ -1,0 +1,30 @@
+* {
+	font-size: 26px;
+}
+p { 
+  text-indent: 25px; 
+}
+h1 {
+  text-align: right;
+}
+img {
+	width: 400px; 
+	height: 300px;
+}
+.left {
+	float: left; 
+	width: 49%;
+}
+.right {
+	float: right; 
+	width: 49%;
+}
+.quote {
+	font-size: 22px;
+	color: red;
+	font-family: cursive;
+}
+footer {
+	float: right; 
+	width: 15%;
+}
